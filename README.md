@@ -1,2 +1,2 @@
 # Curriculo
-Repositório criado para exibir meu Currículo feito utilizando HTML e CSS
+Repositório criado para exibir meu Currículo feito utilizando apenas HTML
